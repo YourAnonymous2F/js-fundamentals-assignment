@@ -12,4 +12,4 @@ let isStudent = false;
 
 let currentYear = 2025
 
-console.log (`My full name is ${myFullName}. I'm ${myAge} years old and my favourite programming language I'm learning is ${favouriteProgrammingLanguage}. The boolean value for I'm a student is ${isStudent} and the current year we are in is ${2025}.`)
+console.log (`My full name is ${myFullName}. I'm ${myAge} years old and my favourite programming language I'm learning is ${favouriteProgrammingLanguage}. The boolean value for I'm a student is ${isStudent} and the current year we are in is ${currentYear}.`)
