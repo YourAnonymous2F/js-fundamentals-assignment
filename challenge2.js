@@ -6,19 +6,25 @@ let num1 = 10;
 let num2 = 4;
 
 // ADDITION
-console.log (num1 + num2);
+const additionOfNumbers = num1 + num2;
+console.log (additionOfNumbers);
 
 // SUBTRACTION
-console.log (num1 - num2);
+const subractionOfNumbers = num1 - num2;
+console.log (subractionOfNumbers);
 
 // MULTIPLICATION
-console.log (num1 * num2);
+const multiplicationOfNumbers = num1 * num2;
+console.log (multiplicationOfNumbers);
 
 // DIVISION
-console.log (num1 / num2);
+const divisionOfNumbers = num1 / num2;
+console.log (divisionOfNumbers);
 
-// MODULUS (REMINDER)
-console.log (num1 % num2);
+// MODULUS (REMAINDER)
+const modulusOfNumbers = num1 % num2;
+console.log (modulusOfNumbers);
 
 // EXPONENTIATION
-console.log (num1 ** num2);
+const exponentiationOfNumbers = num1 ** num2;
+console.log (exponentiationOfNumbers);
